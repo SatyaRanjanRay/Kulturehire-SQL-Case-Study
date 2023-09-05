@@ -31,3 +31,16 @@ This Case study challenge consists of two tables
 ➡ Table 2 : learning_aspirations
 ➡ Table 3 : manager_aspirations
 ➡ Table 4 : mission_aspirations
+
+
+⚡ Here are some quick insights:
+
+📌 According to the survey results, the majority of the respondents (61.16%) who are male prefer to work in the office every day, while a smaller proportion of the respondents (38.84%) who are female share the same preference.
+
+📌 The survey results indicate that female respondents favor a fully remote working environment that allows them to travel as needed.
+
+📌 The survey results show that most of the respondents, regardless of their gender, value teamwork. Specifically, 59.10% of the male respondents and 40.90% of the female respondents expressed their preference for working with teams.
+
+📌 The survey results reveal that the respondents have different opinions on working for organisations that have a mismatch between their mission and their public actions. A minority of the respondents (16.22% of the male and 7.76% of the female) are willing to work for such organisations, while a larger group of the respondents (43.39% of the male and 32.57% of the female) are not willing to do so.
+
+📌 The survey results also reveal the variations in the respondents’ salary expectations based on their tenure, gender and state.
